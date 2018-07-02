@@ -1,0 +1,10 @@
+{
+  "nem": {
+    "host": "127.0.0.1",
+    "port": 7890,
+    "privatekey": "",
+    "publickey": "2af4267399c6943610c7cd236ae7ed98e0928904988c2e7efe288b7c0256befa",
+    "address": "TC5BN23J3RDZ25OGIIGEKOGJR3RONA2P5CSALIOM",
+    "network": "testnet"
+  }
+}
